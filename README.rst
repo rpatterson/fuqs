@@ -34,5 +34,5 @@ projects:
   commands to that shell/batch script.
 
 - Though not strictly the queue system's job, common queue item processing
-  conveniences, such as removing item source files on successful execution,
+  conveniences, such as removing item source files on successful processing,
   are also provided.
